@@ -1,6 +1,6 @@
 ---
 title: "Wishlist"
-tag:
+tags:
 - wishlist
 ---
 
@@ -36,5 +36,3 @@ What I'd buy if I have the money to do so.
 - [Spotify Car Thing](https://carthing.spotify.com/)
 -  [Clockwork Gameshell](https://www.clockworkpi.com/gameshell)
 -  [VR Oculus](https://store.facebook.com/quest/)
-
-> [Life Goals](goals)
