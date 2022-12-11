@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec6035b7ebd57707",
+            "id": "9385731c0be73c59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "9385731c0be73c59",
+            "id": "ec6035b7ebd57707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thoughts/countries.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/thoughts/countries.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/thoughts/countries.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/thoughts/countries.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -151,9 +150,9 @@
   },
   "active": "9385731c0be73c59",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/thoughts/countries.md",
     "content/wishlist.md",
+    "content/thoughts/countries.md",
+    "content/_index.md",
     "content/templates/post.md",
     "content/code.md",
     "content/keyboard.md",
