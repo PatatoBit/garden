@@ -26,5 +26,6 @@ tags:
 - German sounds cool
 - Beatiful cities
 - Good food
+- Kinda car-centric, but not much. Depends on where you are. I think.
 
 
