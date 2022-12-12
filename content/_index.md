@@ -12,3 +12,4 @@ Here are where you should go
 - [wishlist](wishlist)
 - [random ideas](/tags/idea)
 - [thoughts](/tags/thoughts)
+

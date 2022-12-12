@@ -18,13 +18,13 @@ Our lives are the result of our past decision. Your current happiness, sadness, 
 What if that decision makes that situation better, but makes other situation worse?
 
 # An example
-![Decision](/content/images/decision1.png)
+![Decision 1](images/decision1.png)
 
 You regret that you should've bought pizza to eat and invite your friends over.
 
 Now you ~~know~~  imagine that you would've been happier if you didn't choose to cook at home.
 
-![Decision](/content/images/decision2.png)
+![Decision 2](images/decision2.png)
 
 Here's the catch, you die with a heart attack sooner therefore spending less time with your friends if you chose to order pizza.
 
@@ -32,7 +32,7 @@ Now this example is too simplistic and there would be **much much** more variabl
 
 # The point is
 
-![Decision](/content/images/decision3.png)
+![Decision 3](images/decision3.png)
 
 We have **absolutely** no way of knowing the future ( for now ), so why bother spending your *present* time regretting your decisions?
 

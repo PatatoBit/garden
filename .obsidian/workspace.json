@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5f6a01f2b723b395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9190f55063b3279a",
             "type": "leaf",
             "state": {
@@ -146,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0500f507ffde304d",
+  "active": "0879ebccad8cd17b",
   "lastOpenFiles": [
-    "content/images/decision3.png",
-    "content/thoughts/no regrets.md",
-    "content/images/decision2.png",
-    "README.md",
-    "content/images/decision1.png",
     "content/_index.md",
+    "content/thoughts/no regrets.md",
+    "content/images/decision1.png",
+    "content/images/decision2.png",
+    "content/images/decision3.png",
     "screenshot.png",
+    "static/icon.png",
+    "README.md",
     "ideas.md",
-    "content/thoughts/countries.md",
-    "content/wishlist.md"
+    "content/thoughts/countries.md"
   ]
 }
