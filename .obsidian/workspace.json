@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3fbfc998813fa7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/ideas/custom compass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5f6a01f2b723b395",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/private/how to code.md",
+                "file": "content/ideas/custom compass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/private/how to code.md",
+                "file": "content/ideas/custom compass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/private/how to code.md"
+                "file": "content/ideas/custom compass.md"
               }
             }
           }
@@ -158,8 +171,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0500f507ffde304d",
+  "active": "3fbfc998813fa7e9",
   "lastOpenFiles": [
+    "content/private/how to code.md",
     "content/thoughts/no regrets.md",
     "content/_index.md",
     "content/images/decision1.png",
@@ -168,7 +182,6 @@
     "screenshot.png",
     "static/icon.png",
     "README.md",
-    "ideas.md",
-    "content/thoughts/countries.md"
+    "ideas.md"
   ]
 }
