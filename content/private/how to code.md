@@ -1,0 +1,45 @@
+---
+title: "How to code"
+tags:
+- dev
+- video
+---
+- You're probably here because you're trying to get into coding for the first time
+- Just like the memes, the reality is not like cyber man hacking the dark web
+- Don't code because you want to code, code because you want to build something
+- Coding is a wide word, how you code really differs depending on what you want to build
+- There are many fields of code (comp. cooking)
+	- Web ( design like excel)
+	- Backend ( how shits work behind)
+	- Game 
+	- Hardware / Robotics
+	- Data
+	- ML & AI
+- Learn the basics (basic math)
+	- Doesn't depend on which language you learn, just try out what you think is easiest
+	- Or try the language that fits your project
+	- Recommend easy language if you don't know what to build yet
+		- Python ( noob )
+		- Lua (roblox moment)
+		- Scratch ( kid )
+	- What to take
+		- Basics
+		- Conditionals
+		- Loops
+	- Syntax
+		- How does each languages differ
+			- Type checking
+				- TypeScript
+				- C#
+			- Capitalization
+				- Python
+				- Java
+			- Tabs
+				- Python
+			- Colons
+- It's not like learning at school
+	- You're not supposed to memorize everything
+	- Memorize the basics only
+	- Learn how to solve problems
+- *patience* & have fun
+

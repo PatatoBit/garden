@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thoughts/no regrets.md",
+                "file": "content/private/how to code.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/thoughts/no regrets.md",
+                "file": "content/private/how to code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/thoughts/no regrets.md",
+                "file": "content/private/how to code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/thoughts/no regrets.md"
+                "file": "content/private/how to code.md"
               }
             }
           }
@@ -158,10 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0879ebccad8cd17b",
+  "active": "0500f507ffde304d",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/thoughts/no regrets.md",
+    "content/_index.md",
     "content/images/decision1.png",
     "content/images/decision2.png",
     "content/images/decision3.png",
