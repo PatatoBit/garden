@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "f2f94d3229981841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/ideas/I am alive button.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5f6a01f2b723b395",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/ideas/New Year map.md",
+                "file": "content/ideas/I am alive button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/ideas/New Year map.md",
+                "file": "content/ideas/I am alive button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/ideas/New Year map.md"
+                "file": "content/ideas/I am alive button.md"
               }
             }
           }
@@ -183,10 +195,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ead2ecba635da84",
+  "active": "f2f94d3229981841",
   "lastOpenFiles": [
-    "content/ideas/clippy.md",
     "content/ideas/New Year map.md",
+    "content/ideas/clippy.md",
     "content/ideas/custom compass.md",
     "content/private/how to code.md",
     "content/thoughts/no regrets.md",
