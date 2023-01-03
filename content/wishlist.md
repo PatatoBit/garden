@@ -26,7 +26,7 @@ What I'd buy if I have the money to do so.
  
 # Miscellaneous
 - [Flipper Zero](https://flipperzero.one)
-- https://play.date
+- [Playdate Console](https://play.date)
 - [Divoom Ditoo](https://divoom.com/products/divoom-ditooplus)
 -  [VR Oculus](https://store.facebook.com/quest/)
 - [Water bottle?](https://www.kleankanteen.com)
