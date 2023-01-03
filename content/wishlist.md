@@ -25,8 +25,8 @@ What I'd buy if I have the money to do so.
 -  [new keyboard](keyboard.md)?
  
 # Miscellaneous
-- [Flipper Zero](https://flipperzero.one)
 - [Playdate Console](https://play.date)
+- [Flipper Zero](https://flipperzero.one)
 - [Divoom Ditoo](https://divoom.com/products/divoom-ditooplus)
 -  [VR Oculus](https://store.facebook.com/quest/)
 - [Water bottle?](https://www.kleankanteen.com)
