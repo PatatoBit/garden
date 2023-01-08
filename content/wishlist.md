@@ -9,14 +9,15 @@ What I'd buy if I have the money to do so.
 # Techs
 -  Macbook ( Macbook Air M2 / Macbook Pro M1 )
 - - Phone
-		- Wireless Charger
 	- S22
 	- iPhone
+	- Google Pixel 7
 - Second Monitor
 	- some 27 inch IPS monitor idk
-- Drawing Tablet / Monitor
+- Drawing
 	- [Wacom Intuos Pro](https://www.wacom.com/th-th/products/wacom-intuos-pro)
 	- [Huion Kamvas Pro 16 2.5K](https://www.huion.com/pen_display/KamvasPro/kamvas-pro-16-2k.html)
+	- [Tourbox](https://www.tourboxtech.com)
 - Speakers / Headphones
 	- Airpods?
 	- Galaxy Buds?
