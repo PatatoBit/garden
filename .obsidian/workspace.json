@@ -68,17 +68,19 @@
             }
           },
           {
-            "id": "9190f55063b3279a",
+            "id": "d3444f5b57b737af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/images/decision1.png"
+                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/wishlist.md",
+                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/wishlist.md",
+                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/wishlist.md"
+                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md"
               }
             }
           }
@@ -205,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f6a01f2b723b395",
+  "active": "d3444f5b57b737af",
   "lastOpenFiles": [
-    "content/private/how to code.md",
-    "content/_index.md",
-    "content/ideas/I am alive button.md",
-    "content/ideas/New Year map.md",
-    "content/ideas/clippy.md",
-    "content/ideas/custom compass.md",
     "content/thoughts/no regrets.md",
+    "content/private/how to code.md",
+    "content/ideas/custom compass.md",
+    "content/ideas/New Year map.md",
+    "content/ideas/I am alive button.md",
+    "content/wishlist.md",
+    "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
     "content/images/decision1.png",
-    "content/images/decision2.png",
-    "content/images/decision3.png"
+    "content/_index.md",
+    "content/ideas/clippy.md"
   ]
 }
