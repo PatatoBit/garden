@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/ideas/I am alive button.md",
+                "file": "content/ideas/untitled overwatch game.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
+                "file": "content/ideas/timewheel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
+                "file": "content/ideas/untitled overwatch game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
+                "file": "content/ideas/untitled overwatch game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/thoughts/the fastest way for us to not get fucked by ourselves.md"
+                "file": "content/ideas/untitled overwatch game.md"
               }
             }
           }
@@ -207,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3444f5b57b737af",
+  "active": "f2f94d3229981841",
   "lastOpenFiles": [
-    "content/thoughts/no regrets.md",
-    "content/private/how to code.md",
-    "content/ideas/custom compass.md",
-    "content/ideas/New Year map.md",
     "content/ideas/I am alive button.md",
     "content/wishlist.md",
+    "content/ideas/timewheel.md",
+    "content/private/how to code.md",
+    "content/ideas/untitled overwatch game.md",
     "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
-    "content/images/decision1.png",
-    "content/_index.md",
-    "content/ideas/clippy.md"
+    "content/thoughts/no regrets.md",
+    "content/ideas/custom compass.md",
+    "content/ideas/New Year map.md",
+    "content/images/decision1.png"
   ]
 }
