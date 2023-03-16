@@ -8,6 +8,10 @@ tags:
 - [ ] Leagues of Code KWP
 - [ ] Trexsteel website
 
+# 🏖️
+- My links page using Github pages to register for [is-a-dev domain](https://www.is-a.dev/)
+
+
 ## Summer
 what I want to do this summer ( not like I can do it )
 
