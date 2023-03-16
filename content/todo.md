@@ -4,15 +4,15 @@ tags:
 - personal
 ---
 
-# 🔥
+## 🔥Current
 - [ ] Leagues of Code KWP
 - [ ] Trexsteel website
 
-# 🏖️
+## ⛱️ Can wait
 - My links page using Github pages to register for [is-a-dev domain](https://www.is-a.dev/)
 
 
-## Summer
+## ☀️ Summer stuffs 
 what I want to do this summer ( not like I can do it )
 
 - [ ] Complete CS50X
