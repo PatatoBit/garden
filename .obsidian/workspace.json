@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/thoughts/about the earth.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/thoughts/about the earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/thoughts/about the earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/thoughts/about the earth.md"
               }
             }
           }
@@ -184,8 +184,11 @@
   },
   "active": "3fbfc998813fa7e9",
   "lastOpenFiles": [
-    "tags/idea.md",
+    "content/thoughts/countries.md",
+    "content/thoughts/no regrets.md",
+    "content/thoughts/about the earth.md",
     "content/_index.md",
+    "tags/idea.md",
     "tags",
     "content/todo.md",
     "content/ideas/New Year map.md",
@@ -198,8 +201,6 @@
     "content/ideas/untitled overwatch game.md",
     "content/ideas/Untitled.md",
     "content/wishlist.md",
-    "content/private/how to code.md",
-    "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
-    "content/thoughts/no regrets.md"
+    "content/private/how to code.md"
   ]
 }

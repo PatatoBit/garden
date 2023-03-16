@@ -1,5 +1,5 @@
 ---
-title: "I don't regret anything and you shouldn't too"
+title: "How to not get fucked by ourselves"
 tags:
 - environment
 - thoughts
