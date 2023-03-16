@@ -12,7 +12,7 @@ tags:
 what I want to do this summer ( not like I can do it )
 
 - [ ] Complete CS50X
-- [ ] Be fluent in Dutch
+- [ ] Be conversational in Dutch
 - [ ] Learn the Mandolin
 - [ ] Finally make a good [portfolio website](https://patato.live) that satisfies you
 - [ ] Complete one of these projects

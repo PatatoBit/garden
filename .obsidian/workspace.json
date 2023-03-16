@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/todo.md"
               }
             }
           }
@@ -184,8 +184,9 @@
   },
   "active": "3fbfc998813fa7e9",
   "lastOpenFiles": [
-    "content/todo.md",
     "content/_index.md",
+    "content/ideas/New Year map.md",
+    "content/todo.md",
     "content/ideas/alive_button.md",
     "content/ideas/custom compass.md",
     "ideas/I.md",
@@ -197,7 +198,6 @@
     "content/wishlist.md",
     "content/private/how to code.md",
     "content/thoughts/the fastest way for us to not get fucked by ourselves.md",
-    "content/thoughts/no regrets.md",
-    "content/ideas/New Year map.md"
+    "content/thoughts/no regrets.md"
   ]
 }
