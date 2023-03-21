@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/pathonscript/garden
+GitHubLink: https://github.com/patatotato/garden
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -25,6 +25,6 @@ links:
   - link_name: Website
     link: https://patato.live
   - link_name: Github
-    link: https://github.com/pathonscript
+    link: https://github.com/patatotato
   - link_name: Twitter
     link: https://twitter.com/patatotota
