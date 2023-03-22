@@ -30,6 +30,7 @@ What I'd buy if I have the money to do so.
 - [Flipper Zero](https://flipperzero.one)
 - [Divoom Ditoo](https://divoom.com/products/divoom-ditooplus)
 -  [VR Oculus](https://store.facebook.com/quest/)
+- [CHOMPI](https://chompiclub.com/)
 - [Water bottle?](https://www.kleankanteen.com)
 - [Cult of the Lamb](https://www.cultofthelamb.com/)
 - [USB-A YubiKey 5 NFC](https://www.yubico.com/th/product/yubikey-5-nfc/)

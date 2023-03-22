@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/wishlist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/wishlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/wishlist.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0879ebccad8cd17b",
+  "active": "0df21efe68c197ab",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/ideas/timewheel.md",
     "content/wishlist.md",
     "content/ideas/New Year map.md",
     "content/thoughts/about the earth.md",
     "content/thoughts/countries.md",
     "content/thoughts/no regrets.md",
-    "content/_index.md",
     "tags/idea.md",
     "tags",
     "content/todo.md",
