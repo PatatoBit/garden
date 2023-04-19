@@ -9,11 +9,12 @@ What I'd buy if I have the money to do so.
 # Techs
 -  Macbook ( Macbook Air M2 / Macbook Pro M1 )
 - - Phone
-	- S22
-	- iPhone
 	- Google Pixel 7
+	- S22
+	- iPhone sumthin
 - Second Monitor
 	- some 27 inch IPS monitor idk
+- [Wave Mic Arm LP](https://www.elgato.com/en/wave-mic-arm-lp)
 - Drawing
 	- [Wacom Intuos Pro](https://www.wacom.com/th-th/products/wacom-intuos-pro)
 	- [Huion Kamvas Pro 16 2.5K](https://www.huion.com/pen_display/KamvasPro/kamvas-pro-16-2k.html)
@@ -21,6 +22,8 @@ What I'd buy if I have the money to do so.
 - Speakers / Headphones
 	- Airpods?
 	- Galaxy Buds?
+- Camera
+	- [Sony ZV-E10 |](https://www.sony.co.th/th/electronics/interchangeable-lens-cameras/zv-e10)
 - [Elgato Streamdeck](https://www.elgato.com/en)?
 - [Go XLR](https://www.tc-helicon.com/product.html?modelCode=P0CQK)?
 -  [new keyboard](keyboard.md)?
