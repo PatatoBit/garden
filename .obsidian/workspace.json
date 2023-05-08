@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c58b8ed03209d4",
+        "id": "434d1b2b353643dc",
         "type": "tabs",
         "children": [
           {
-            "id": "0df21efe68c197ab",
+            "id": "21e3c4b303bb81a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8b8951a7ccd9b0d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/_index.md"
+              }
             }
           }
         ]
@@ -138,19 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0879ebccad8cd17b",
+  "active": "21e3c4b303bb81a9",
   "lastOpenFiles": [
-    "Pasted image 20230508090813.png",
-    "content/todo.md",
-    "Pasted image 20230508090817.png",
-    "content/wishlist.md",
+    "tags/idea.md",
     "content/_index.md",
+    "content/wishlist.md",
+    "tags/thoughts.md",
+    "content/todo.md",
+    "ideas.md",
+    "Pasted image 20230508090813.png",
+    "Pasted image 20230508090817.png",
     "content/ideas/timewheel.md",
     "content/ideas/New Year map.md",
     "content/thoughts/about the earth.md",
     "content/thoughts/countries.md",
     "content/thoughts/no regrets.md",
-    "tags/idea.md",
     "tags",
     "content/ideas/alive_button.md",
     "content/ideas/custom compass.md",
