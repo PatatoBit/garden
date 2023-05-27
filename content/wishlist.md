@@ -6,7 +6,10 @@ tags:
 
 What I'd buy if I have the money to do so.
 
-# Techs
+# MVP
+- [Kuru Toga | uni Mitsubishi Pencil](https://www.uni-ball.co.th/en/product/kuru-toga/)
+- [Three.js Merch](https://threejs-store.creator-spring.com/)
+- [Amazon E-Reader](https://www.amazon.com/Amazon-Kindle-Ereader-Family/b?ie=UTF8&node=6669702011)
 -  Macbook ( Macbook Air M2 / Macbook Pro M1 )
 - - Phone
 	- Google Pixel 7
